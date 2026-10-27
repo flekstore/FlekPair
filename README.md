@@ -10,10 +10,10 @@ Connect your device, click **Start pairing**, and FlekPair makes the device's pa
 
 | System | Download |
 | --- | --- |
-| macOS, Apple silicon and Intel | [FlekPair-darwin-universal.dmg](https://github.com/Alex23Grig/flekpair/releases/latest/download/FlekPair-darwin-universal.dmg) |
-| Windows, 64-bit | [FlekPair-windows-x64.exe](https://github.com/Alex23Grig/flekpair/releases/latest/download/FlekPair-windows-x64.exe) |
+| macOS, Apple silicon and Intel | [FlekPair-darwin-universal.dmg](https://github.com/flekstore/FlekPair/releases/latest/download/FlekPair-darwin-universal.dmg) |
+| Windows, 64-bit | [FlekPair-windows-x64.exe](https://github.com/flekstore/FlekPair/releases/latest/download/FlekPair-windows-x64.exe) |
 
-These always fetch the latest version. What changed in each version is on the [releases page](https://github.com/Alex23Grig/flekpair/releases).
+These always fetch the latest version. What changed in each version is on the [releases page](https://github.com/flekstore/FlekPair/releases).
 
 ## How to use
 
